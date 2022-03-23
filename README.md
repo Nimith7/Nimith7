@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [(soon)]((soon))
 
-- ⚡ Fun fact **I have a birthmark on my right cheek, it's kawaii ﾍ(￣▽￣*)ﾉ**
+- ⚡ Fun fact **I have a birthmark on my right cheek, it's kawaii ﾍ(￣▽￣.)ﾉ**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
