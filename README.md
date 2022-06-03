@@ -21,11 +21,3 @@ I’m currently learning languages and frameworks JS and Vue.js.
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-
-### Connect with me:
-
-[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/nicolas-calvi-8a305821a/#gh-light-mode-only)
-[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nicolas-calvi-8a305821a/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![img_contact](./img/instagram-light.svg)](https://www.instagram.com/nimith_7/)#gh-light-mode-only)
-[![img_contact](./img/instagram-dark.svg)](https://www.instagram.com/nimith_7/#gh-dark-mode-only)
