@@ -2,10 +2,10 @@
 
 <!--
 **Nimith7/Nimith7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 I'm Nicolas Calvi (Nimith), front-End developper, from France.
 I’m currently learning languages and frameworks JS and Vue.js. 
--->
 
 ### ⭐ GitHub Stats
 
