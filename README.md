@@ -4,7 +4,7 @@
 **Nimith7/Nimith7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-IFrom France.
+I From France.
 I’m currently learning Java & Mulesoft ! 
 
 My Portfolio : https://nimith7.github.io/MonPortfolio/ (in progress ^^)
