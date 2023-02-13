@@ -7,7 +7,7 @@
 IFrom France.
 I’m currently learning Java & Mulesoft ! 
 
-My Portfolio : https://nimith7.github.io/MonPortfolio/
+My Portfolio : https://nimith7.github.io/MonPortfolio/ (in progress ^^)
 
 ### ⭐ GitHub Stats
 
