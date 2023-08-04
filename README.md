@@ -6,9 +6,9 @@
 
 I come from France.
 
-I’m currently working for Capgemini as a software engineer!
+I’m currently working for Capgemini as a software engineer !
 
-I use Talend and Java for data integration
+I use Talend and Java for data integration.
 
 ### ⭐ GitHub Stats
 
