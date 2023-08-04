@@ -5,9 +5,8 @@
 -->
 
 I come from France.
-I’m currently learning Java & Mulesoft ! 
-
-My Portfolio : https://nimith7.github.io/MonPortfolio/ (in progress ^^)
+I’m currently working for Capgemini as a software engineer!
+I use Talend and Java for data integration
 
 ### ⭐ GitHub Stats
 
@@ -23,3 +22,7 @@ My Portfolio : https://nimith7.github.io/MonPortfolio/ (in progress ^^)
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+
+### For fun :
+
+My Portfolio : https://nimith7.github.io/MonPortfolio/ (in progress / old ^^)
