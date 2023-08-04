@@ -15,7 +15,7 @@ I use Talend and Java for data integration
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nimith7&show_icons=true&theme=transparent)
 
 ### Languages and Tools:
-
+![Google logo](https://upload.wikimedia.org/wikipedia/commons/7/70/TalendLogoCoral.png "talend logo")
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />        
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
